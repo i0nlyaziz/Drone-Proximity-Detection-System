@@ -1,0 +1,17 @@
+*.db
+*.log
+output/
+drone_*.jpg
+
+*.pt
+*.pth
+*.engine
+*.onnx
+
+.idea/
+.vscode/
+
+__pycache__/
+*.pyc
+venv/
+.env
